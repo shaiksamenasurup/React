@@ -1,6 +1,8 @@
 # Smart Shopping List App
 
 A modern, responsive shopping list application built with React hooks, featuring real-time statistics, categorization, and local storage persistence.
+![Shopping-list-app](assets/<img width="1691" height="1022" alt="Shopping-App" src="https://github.com/user-attachments/assets/e31b40f3-b1a6-4794-a2c0-42c4f8a52efd" />)
+
 
 ## 🚀 Features
 
